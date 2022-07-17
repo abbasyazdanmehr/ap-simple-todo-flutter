@@ -7,4 +7,4 @@ This app does not save the user data 😕. If you want to save user data you can
 
 ## Screen Shots
 
-![](ap-simple-todo-flutter_00.gif)
+![screen_shots](https://github.com/abbasyazdanmehr/ap-simple-todo-flutter/blob/master/ap-simple-todo-flutter_00.gif)
