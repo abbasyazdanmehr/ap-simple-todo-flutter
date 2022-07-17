@@ -1,16 +1,9 @@
-# simple_todo
+# Simple ToDo
 
-A new Flutter project.
+Advanced Programming excercise, very simple application written by Flutter just for introducing with some of flutter features and coding mood.
+<br>
+This app does not save the user data 😕. If you want to save user data you can see my other Flutter projects like my [Billing App](https://github.com/abbasyazdanmehr/billing-app-flutter) project.
 
-## Getting Started
+## Screen Shots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](ap-simple-todo-flutter_00.gif)
