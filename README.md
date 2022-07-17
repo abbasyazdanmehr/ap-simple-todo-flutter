@@ -7,4 +7,5 @@ This app does not save the user data 😕. If you want to save user data you can
 
 ## Screen Shots
 
+If below link does not load, you can open "ap-simple-todo-flutter_00.gif" file in this repository.
 ![screen_shots](https://github.com/abbasyazdanmehr/ap-simple-todo-flutter/blob/master/ap-simple-todo-flutter_00.gif)
