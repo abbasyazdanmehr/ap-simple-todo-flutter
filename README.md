@@ -18,4 +18,6 @@ No package for this app 😐.
 
 ## Screen Shots
 
-![](ap-simple-todo-flutter_00.gif)
+If below link does not load, you can open "ap-simple-todo-flutter_00.gif" file in this repository.
+<br><br>
+![screen_shots](https://github.com/abbasyazdanmehr/ap-simple-todo-flutter/blob/master/ap-simple-todo-flutter_00.gif)
